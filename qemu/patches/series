@@ -13,3 +13,7 @@ bda08a5-seccomp-prefer-SCMP_ACT_KILL_PROCESS-if-available.patch
 70dfabe-seccomp-set-the-seccomp-filter-to-all-threads.patch
 additional-seccomp-filters.patch
 suppress_vmdesc.patch
+0001-Enable-Xen-debugging.patch
+0001-Fix-undefined-behaviour.patch
+0002-Improve-legacy-vbios-handling.patch
+0001-don-t-try-to-enable-opregion-access.patch
